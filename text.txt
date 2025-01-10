@@ -2,3 +2,6 @@ Some new code
 sadfsdf
 adsfasdf
 feature that improves speed
+asdfasd
+adsfasdfasdfsd
+added 2 bugs
